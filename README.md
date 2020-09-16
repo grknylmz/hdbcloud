@@ -1,3 +1,2 @@
-TODO - Check out Cert
-
-https://help.sap.com/viewer/db19c7071e5f4101837e23f06e576495/cloud/en-US/9c0c101e368a4102a7eaeef542970741.html
+No Client available - check out 
+https://blogs.sap.com/2020/09/08/use-cap-to-expose-hana-cloud-tables-as-odata-services/
