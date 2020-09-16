@@ -8,7 +8,7 @@ import (
 
 const (
     driverName = "hdb"
-    hdbDsn     = "hdb://DBADMIN:Asd123456789@618751f0-4770-4fa7-ab7e-77ed58df994b.hana.trial-us10.hanacloud.ondemand.com:443"
+    hdbDsn     = ""
 )
 
 func main() {
